@@ -1,0 +1,30 @@
+2500.0 110 false false
+50 40 30 20 15 12 10 10 0 
+Pepsi 500ml
+10 1.5 
+Burn 250ml
+10 1.8 
+Coca-Cola 500ml
+10 1.65 
+Fanta 500ml
+10 1.55 
+Mirinda 500ml
+10 1.55 
+7-Up 500ml
+10 1.55 
+Tiger 250ml
+10 1.75 
+Nestea 500ml
+10 1.5 
+Gorąca czekolada
+20 1.5 15.0 
+Cappuccino
+15 2.0 10.0 
+Espresso
+15 1.9 10.0 
+Kawa czarna
+20 1.75 8.0 
+Kawa z mlekiem
+20 1.75 15.0 
+Herbata cytrynowa
+20 1.2 15.0 
